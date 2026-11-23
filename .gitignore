@@ -12,6 +12,7 @@ env/
 # Django
 *.log
 db.sqlite3
+backend/dealeros_backup.json
 db.sqlite3-journal
 media/
 staticfiles/
